@@ -1,0 +1,2 @@
+regularization low
+kernal
